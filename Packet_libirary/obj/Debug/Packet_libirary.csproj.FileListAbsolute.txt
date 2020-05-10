@@ -1,0 +1,12 @@
+C:\Users\geunu\source\repos\WindowsFormsApp8\Packet_libirary\bin\Debug\Packet_libirary.dll
+C:\Users\geunu\source\repos\WindowsFormsApp8\Packet_libirary\bin\Debug\Packet_libirary.pdb
+C:\Users\geunu\source\repos\WindowsFormsApp8\Packet_libirary\obj\Debug\Packet_libirary.csprojAssemblyReference.cache
+C:\Users\geunu\source\repos\WindowsFormsApp8\Packet_libirary\obj\Debug\Packet_libirary.csproj.CoreCompileInputs.cache
+C:\Users\geunu\source\repos\WindowsFormsApp8\Packet_libirary\obj\Debug\Packet_libirary.dll
+C:\Users\geunu\source\repos\WindowsFormsApp8\Packet_libirary\obj\Debug\Packet_libirary.pdb
+C:\Users\geunu\Desktop\copyof\number2\CopyFile\Packet_libirary\bin\Debug\Packet_libirary.dll
+C:\Users\geunu\Desktop\copyof\number2\CopyFile\Packet_libirary\bin\Debug\Packet_libirary.pdb
+C:\Users\geunu\Desktop\copyof\number2\CopyFile\Packet_libirary\obj\Debug\Packet_libirary.csprojAssemblyReference.cache
+C:\Users\geunu\Desktop\copyof\number2\CopyFile\Packet_libirary\obj\Debug\Packet_libirary.csproj.CoreCompileInputs.cache
+C:\Users\geunu\Desktop\copyof\number2\CopyFile\Packet_libirary\obj\Debug\Packet_libirary.dll
+C:\Users\geunu\Desktop\copyof\number2\CopyFile\Packet_libirary\obj\Debug\Packet_libirary.pdb
